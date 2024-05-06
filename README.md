@@ -12,7 +12,6 @@ I'm a Computer Science Student at VIT, especially interested in web development.
 <a href="https://www.w3schools.com/c/"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
 <a href="https://www.w3schools.com/cpp/"> ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="https://www.python.org/"> ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=darkgreen)</a>
-<a href="https://www.r-project.org/"> ![R](https://img.shields.io/badge/R%20Language-lightgray?style=for-the-badge&logo=r&logoColor=blue)</a>
 <a href="https://www.java.com/en/"> ![Java](https://img.shields.io/badge/Java-6b5b4e?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="https://www.w3schools.com/html/"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)</a>
@@ -23,8 +22,8 @@ I'm a Computer Science Student at VIT, especially interested in web development.
 <a href="https://www.gnu.org/software/bash/"> ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white)</a>
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
-<a href="https://www.djangoproject.com/"> ![django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=yellow)</a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/"> ![flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white)</a>
+<a href="https://www.djangoproject.com/"> ![django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white)</a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/"> ![flask](https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=black)</a>
 <a href="https://www.w3schools.com/xml/ajax_intro.asp"> ![ajax](https://img.shields.io/badge/ajax-yellow?style=for-the-badge&logo=ajax&logoColor=black)</a>
 <a href="https://www.w3schools.com/mysql/default.asp"> ![mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black)</a>
 <a href="https://www.w3schools.com/git/default.asp"> ![git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=black)</a>
@@ -34,6 +33,7 @@ I'm a Computer Science Student at VIT, especially interested in web development.
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Winscp" src="https://img.shields.io/badge/winscp-blue?logo=winscp&logoColor=black"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
