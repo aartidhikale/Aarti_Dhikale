@@ -1,3 +1,5 @@
+![banner](banner.gif)
+
 ## :man_technologist: About me 
 
 I'm a Computer Science Student at VIT, especially interested in web development.
